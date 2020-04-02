@@ -1,0 +1,50 @@
+body {
+
+font-family: sans-serif;
+line-height: normal;
+color: black]
+margin:auto;
+background-color: dimgrey}
+
+.AZUL{
+
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointers;
+  background: blue;
+  border: none;
+    color: white; }
+
+.BRANCO{
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointer;
+  background: white;
+  border: none;
+    color: black; }
+
+.VERMELHO{
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointer;
+  background: red;
+  border: none;
+  color: black;
+}
+
+
+.botao{
+  color: white;
+  background: green;
+  border: none;
+}
+
+main{
+  background: grey;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
